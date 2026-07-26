@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-kqio2e.nuansa138.xyz/sitemap.xml
